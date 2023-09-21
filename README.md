@@ -1,4 +1,4 @@
-# Behavioral and Calcium Imaging Analysis Pipeline for Stress-induced Mice 🐁
+# Behavioral and Calcium Imaging Analysis Pipeline for Stress-induced Mice 
 
 This repository provides a pipeline to analyze data related to the behavior and calcium imaging of mice subjected to stressors. The experimental design explores a fear acquisition and extinction paradigm based on the association of a shock and a tone. This is subsequently followed by the sole presentation of the tone for the fear extinction phase.
 
