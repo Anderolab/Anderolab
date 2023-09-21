@@ -10,22 +10,22 @@ This repository provides a pipeline to analyze data related to the behavior and 
 
 - **Stressor Data**: Comprehensive analysis methods to process data concerning stressors, involving both movement and calcium aspects.
 
-- **Neural Response Analysis**: Advanced utilities designed to group and differentiate neural response types using various clustering techniques and correlation coefficients.
+- **Neural Response Analysis**: Utilities to group and differentiate neural response types using various clustering techniques and correlation coefficients.
 
 ## Repository Structure
 
-- **/Computation/**: Equipped with tools for computational data analysis and processing, spanning across functions like categorization, simulation, and correlation.
+- **/Computation/**: Tools for computational data analysis and processing, covering aspects like categorization, simulation, and correlation.
 
-- **/Data Management/**: Focused on the management, structuring, and grouping of experimental data.
+- **/Data Management/**: Functions focused on the management, structuring, and grouping of experimental data.
 
-- **/File Management/**: Aids in the optimal organization of the project by managing file naming and searching.
+- **/File Management/**: For file naming and searching, ensuring optimal project organization.
 
-- **/GLOBAL SCRIPTS/**: These are the backbone scripts, integrating and harnessing all the functions within the repository for comprehensive analyses.
+- **/GLOBAL SCRIPTS/**: Central scripts that integrate and utilize all the functions within the repository for comprehensive analyses.
 
-- **/Statistics/**: Houses an array of both MATLAB and R functions, dedicated exclusively for the statistical interpretation and validation of data.
+- **/Statistics/**: Has an array of both MATLAB and R functions, dedicated exclusively for the statistical interpretation and validation of data.
 
-- **/Test Scripts/**: A collection of subfunctions with a specialization in validating and enhancing the primary analysis functions.
+- **/Test Scripts/**: Subfunctions specializing in the validation and enhancement of main analysis functions.
 
-- **/UI/**: Features user-friendly graphical interface tools, enhancing functionalities such as the creation of experiment types.
+- **/UI/**: User-friendly graphical interface tools, such as functionalities to create experiment types.
 
-- **/Visualisations/**: A diverse suite of functions keenly focused on graphical data representation in myriad formats.
+- **/Visualisations/**: A variety of functions dedicated to graphical data representation in different formats.
